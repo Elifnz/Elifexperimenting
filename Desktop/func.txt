@@ -1,0 +1,11 @@
+
+
+y=float(input('baslama parası'))
+x=0
+while x<28:
+    x=1+x
+    y=y*2
+    print('for day:',x)
+    print('amount of money:',y)
+
+  
